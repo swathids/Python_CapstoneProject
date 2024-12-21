@@ -25,7 +25,7 @@ Predominant Age Group: Identify the most common age group among employees to und
 For each of the analysis tasks, appropriate visualizations (e.g., bar charts, pie charts, scatter plots) will be created to effectively present the findings and insights drawn from the dataset. These visuals will help highlight key trends, distributions, and correlations within the data.
 
 
-#PROJECT INSIGHTS
+#PROJECT INSIGHTS:
 Employee Distribution Across Teams:
 The distribution of employees across teams reveals valuable insights into the workforce composition. Some teams may have a significantly higher number of employees compared to others, indicating either a higher demand for resources in that team or a more specialized focus. A bar plot helps visualize these imbalances, and if one team stands out with a notably larger workforce, it could suggest an area that requires more management or possibly a reassessment of resource allocation. Such findings can prompt a review of team structures and workload distribution to ensure that no team is overstretched or understaffed.
 
@@ -48,7 +48,7 @@ Key Takeaways:
 Overall, the analysis of team distribution, employee positions, salary expenditure, and the correlation between age and salary provides a comprehensive overview of the company’s workforce dynamics. The insights gained can inform key decisions in workforce management, compensation strategies, and organizational structure. For instance, if salary expenditures are concentrated in certain teams or positions, the company may need to review its budget allocation and hiring strategies. Additionally, understanding age and experience distribution is crucial for long-term planning, especially in terms of succession and career development. By leveraging these insights, the company can optimize its workforce to achieve greater efficiency, growth, and sustainability.
 
 
-#INFERENCES
+#INFERENCES:
 
 Employee Distribution Across Teams:
 The graph shows that Team A has the highest number of employees (e.g., 120 employees, 26.2% of the workforce), while Team D has the lowest (e.g., 35 employees, 7.6%). The distribution highlights uneven team sizes, which might indicate varying workloads or priorities among teams.
@@ -67,7 +67,7 @@ Team B has the highest salary expenditure (e.g., ₹15,000,000), while Team D ha
 Correlation Between Age and Salary:
 The correlation coefficient is 0.65, indicating a moderate positive correlation—older employees generally earn higher salaries. The graph visually confirms the trend with a positive regression line, suggesting that salary progression aligns with experience and tenure. However, outliers in the plot could indicate exceptions, such as high salaries for younger employees in specialized roles.
 
-#SUMMARY
+#SUMMARY:
 The project involved analyzing a dataset from ABC Company containing 458 employees across 9 columns, with the aim of understanding employee distribution, salary expenditures, and other key trends. The first task was preprocessing the data, where missing values in the "Height" column were replaced with random values between 150 and 180. For analysis, five key tasks were performed. The first task identified the distribution of employees across different teams, calculating both the number and percentage of employees in each team. The second task segregated employees based on their positions, providing a list of employees in each role. The third task focused on identifying the predominant age group among employees by categorizing them into age bins, revealing the most common age range in the workforce. The fourth task examined salary expenditure, determining which teams and positions had the highest salary costs. Lastly, the fifth task investigated the correlation between age and salary, showing a positive relationship where older employees tended to earn higher salaries. Inferences drawn from the analysis indicated that larger teams like Marketing had more employees, while positions like Engineers were more common. Teams such as Marketing and roles like Manager had the highest salary expenditures. Additionally, the analysis confirmed that as age increased, salary also tended to rise, reflecting a typical trend in workforce compensation.
 
 
